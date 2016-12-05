@@ -1,0 +1,33 @@
+.timePlan{
+    color:#777;
+}
+.titleTab{
+    /*display:inline-block;*/
+}
+.rulerCell{
+    /*border: 1px solid red;*/
+    /*border-right: 1px dotted #777;*/
+}
+.firstRulerCell{
+    border-left: 1px solid #777;
+}
+.lastRulerCell{
+    border-left: 1px solid #777;
+}
+.rulerCellInner{
+    border-right:1px solid #aaa;
+}
+.rulerCellMargin{
+    border-left:1px solid #777;
+    border-bottom:1px solid #777;
+}
+.dayCell{
+/*    border: 1px solid red;*/
+    border-right: 1px solid ;
+}
+.firstDayCell{
+    border-left: 1px solid;
+}
+.daysInnerCell{
+    border-bottom:1px solid;
+}
